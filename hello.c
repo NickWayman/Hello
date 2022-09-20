@@ -1,4 +1,8 @@
 /**
+ * Authors: Nicholas Wayman and Andrew Duweling
+ *
+ * Emails: nwayman2@huskers.unl.edu and aduweling2@huskers.unl.edu
+ * 
  * Basic Hello World Program
  */
 #include <stdlib.h>
